@@ -1,8 +1,8 @@
-# Simple Inventory List by John Phillips on Febuary 16, 2021.
+# Simple Inventory List with local storage by John Phillips on Febuary 17, 2021.
 
-Source link: [https://github.com/profphillips/inventorylistnostorage](https://github.com/profphillips/inventorylistnostorage).
+Source link: [https://github.com/profphillips/inventorylistlocalstorage](https://github.com/profphillips/inventorylistlocalstorage).
 
-Live page link: [https://profphillips.github.io/inventorylistnostorage/](https://profphillips.github.io/inventorylistnostorage/).
+Live page link: [https://profphillips.github.io/inventorylistlocalstorage/](https://profphillips.github.io/inventorylistlocalstorage/).
 
 <img src="./appscreenshot.jpg">
 
